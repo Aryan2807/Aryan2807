@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software Development and Full stack Development 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... EMAIL- aryanruma666@gmail.com ... Instagram- @aryan_mha
+- 📫 How to reach me ... EMAIL- aryanruma666@gmail.com ... Instagram- @weird_flexbutok_
 
 <!---
 Aryan2807/Aryan2807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
